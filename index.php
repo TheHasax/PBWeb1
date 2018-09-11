@@ -8,10 +8,14 @@ and open the template in the editor.
     <head>
         <meta charset="UTF-8">
         <title></title>
+        <link href="CSS/style.css" rel="stylesheet" type="text/css">
     </head>
     <body>
-        <?php
-        // put your code here
-        ?>
+        
+        <div id="primary">
+            <div class="wrapper">
+                
+            </div>
+        </div>
     </body>
 </html>
