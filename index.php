@@ -30,17 +30,52 @@ and open the template in the editor.
                         <tr>
                             <p>Assignment be03: <a href="be03.php">Click here.</a></p>
                         </tr>
-                        <tr>
-                            <p>Assignment be1: <a href="be1.php">Click here.</a></p>
-                        </tr>
                         <br>
                         <tr>
-                            <p>Solution: <a href="be1.php">Click here.</a></p>
+                            <p>Solution: <a href="be10.php">Click here.</a></p>
                         </tr>
                     </td>
                 </table>
                 <br>
-                
+                <h3>Assignment BE.2</h3>
+                <table>
+                    <td>
+                        <tr>
+                            <p>Assignment be20: <a href="be20.php">Click here.</a></p>
+                        </tr>
+                        <tr>
+                            <p>Assignment be21: <a href="be21.html">Click here.</a></p>
+                        </tr>
+                    </td>
+                </table>
+                <br>
+                <h3>Assignment BE.3</h3>
+                <table>
+                    <td>
+                        <tr>
+                            <p>Assignment be30: <a href="be30.php">Click here.</a></p>
+                        </tr>
+                    </td>
+                </table>
+                <br>
+                <h3>Assignment BE.4</h3>
+                <table>
+                    <td>
+                        <tr>
+                            <p>Assignment be40: <a href="be40.php">Click here.</a></p>
+                        </tr>
+                        <tr>
+                            <p>Assignment be21: <a href="be41.html">Click here.</a></p>
+                        </tr>
+                    </td>
+                </table>
+                <br>
+                <div class="classAss">
+                    <h2>Class Assignments</h2>
+                    <h4>!TEMP FILES!</h4>
+                    <p>Work page <b>PHP</b>: <a href="class.php">Click here.</a></p>
+                    <p>Work page <b>HTML</b>: <a href="class.html">Click here.</a></p>
+                </div>
             </div>
         </div>
     </body>
