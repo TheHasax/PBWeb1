@@ -70,11 +70,27 @@ and open the template in the editor.
                     </td>
                 </table>
                 <br>
+                <h3>Assignment BE.5</h3>
+                <table>
+                    <td>
+                        <tr>
+                            <p>Assignment be50: <a href="addP.php">Click here.</a></p>
+                        </tr>
+                        </tr>
+                    </td>
+                </table>
+                <br>
                 <div class="classAss">
                     <h2>Class Assignments</h2>
                     <h4>!TEMP FILES!</h4>
                     <p>Work page <b>PHP</b>: <a href="class.php">Click here.</a></p>
                     <p>Work page <b>HTML</b>: <a href="class.html">Click here.</a></p>
+                </div>
+                
+                <div>
+                    <h2>Database online tool.</h2>
+                    <p>DBAdmin <a href="DBAdmin.php">Click here.</a></p>
+                    <p>Usernames and passwords to all databases:<br><b>Username:</b> TheHasax<br><b>Password:</b> 1234</p>
                 </div>
             </div>
         </div>
